@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using CursoCSharp.EstruturasDeControle;
-
+using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Fundamentos;
 
 namespace CursoCSharp {
@@ -30,6 +30,10 @@ namespace CursoCSharp {
                 { "Estrutura IfElseIf- Esruturas de controle", EstruturaIfElseIf.Executar},
                 { "Estrutura Switch- Esruturas de controle", EstruturaSwitch.Executar},
                 { "Estrutura While- Esruturas de controle", EstruturaWhile.Executar},
+                //Classes e métodos
+                { "Membros- Classes e Métodos", Membros.Executar},
+                { "Contrutores- Classes e Métodos", Construtores.Executar},
+                { "Métodos com retorno- Classes e Métodos", MetodosComRetorno.Executar},
 
             });
 
